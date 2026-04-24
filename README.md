@@ -16,4 +16,4 @@ The script performs:
 
 ## How to Run
 ```bash
-python3 measurement_uncertainty.py
+python measurement_uncertainty.py
